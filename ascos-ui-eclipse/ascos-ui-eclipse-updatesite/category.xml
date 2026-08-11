@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+    <feature url="features/org.deventropy.ascos.ui.eclipse.feature_0.0.0.jar"
+        id="org.deventropy.ascos.ui.eclipse.feature"
+        version="0.0.0">
+        <category name="org.deventropy.ascos.category"/>
+    </feature>
+
+    <category-def name="org.deventropy.ascos.category"
+        label="Deventropy Ascos"/>
+</site>

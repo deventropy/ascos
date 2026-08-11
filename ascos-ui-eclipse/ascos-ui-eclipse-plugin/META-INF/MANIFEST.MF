@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Deventropy Ascos Eclipse Plugin
+Bundle-SymbolicName: org.deventropy.ascos.ui.eclipse.plugin;singleton:=true
+Bundle-Version: 0.0.1.qualifier
+Bundle-Vendor: Development Entropy
+Bundle-RequiredExecutionEnvironment: JavaSE-21

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature id="org.deventropy.ascos.ui.eclipse.feature"
+    label="Deventropy Ascos Eclipse Feature"
+    version="0.0.1.qualifier"
+    provider-name="Development Entropy">
+
+    <description url="https://ascos.deventropy.org/">
+        Eclipse integration feature for Deventropy Ascos.
+    </description>
+
+    <copyright>
+        Copyright 2026 Development Entropy (deventropy.org) Contributors
+    </copyright>
+
+    <license url="http://www.apache.org/licenses/LICENSE-2.0">
+        Licensed under the Apache License, Version 2.0.
+    </license>
+
+    <plugin id="org.deventropy.ascos.ui.eclipse.plugin"
+        download-size="0"
+        install-size="0"
+        version="0.0.0"
+        unpack="false"/>
+</feature>
